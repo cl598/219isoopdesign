@@ -26,8 +26,8 @@ Creational Pattern : **Singleton**
     Class having only one instance while having a global 
     access point to this instance
 
-Constructors, as a default, are set to be private to avoid other objects from
-using the operators with the _singleton_ class.
+If there is a function available and made, then use it to execute the code.
+If not, then create the function to execute the code.
 
 ![creational](/img/singleton.png)
 
