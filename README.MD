@@ -1,4 +1,6 @@
-##Structural Pattern : **Adapter**
+[![Build Status](https://travis-ci.com/cl598/219isoopdesign.svg?branch=master)](https://travis-ci.com/cl598/219isoopdesign)
+
+Structural Pattern : **Adapter**
 
     Allows objects with incompatible interfaces to collaborate
 
@@ -19,7 +21,7 @@ The **separate** methods are used, but in a private view.
 
 ![structure_3](/img/sa3.png)
 
-##Creational Pattern : **Singleton**
+Creational Pattern : **Singleton**
 
     Class having only one instance while having a global 
     access point to this instance
@@ -29,7 +31,7 @@ using the operators with the _singleton_ class.
 
 ![creational](/img/singleton.png)
 
-##Behavioral Pattern : **Chain of Responsibility**
+Behavioral Pattern : **Chain of Responsibility**
 
     Allows an access to pass requests along a chain
     of handlers
