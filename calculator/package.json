@@ -1,0 +1,16 @@
+{
+  "name": "is219calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no src/test specified\\\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "jest": "^25.5.4"
+  }
+}
